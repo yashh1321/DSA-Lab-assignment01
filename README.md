@@ -1,4 +1,6 @@
 # DSA-Lab-assignment01
+# Name-Yashashvi Kumar
+# Roll no.- 2401730122
 # Grocery Store Inventory System (C++)
 
 This project implements a simple **Inventory Management System** using array-based data structures in C++.  
